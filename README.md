@@ -8,13 +8,3 @@ built against the following versions:
 Node v13.13.0
 npm v6.14.5
 
-## Get started
-
-Clone this repository to your local machine with:
-
-```bash
-$ git clone https://github.com/Freshman-tech/pomodoro-starter-files.git
-```
-
-`cd` into the downloaded directory and follow along with the
-[tutorial](https://freshman.tech/pomodoro-timer/).
