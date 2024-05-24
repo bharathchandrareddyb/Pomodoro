@@ -1,12 +1,3 @@
-# Pomodoro Timer Starter files
-
-Here lies the starter files for the Pomodoro timer tutorial which can be found
-here: https://freshman.tech/pomodoro-timer
-
-## Live demo
-
-The completed version of this project is live at
-https://freshman-pomodoro.surge.sh/
 
 ## Prerequisites
 
